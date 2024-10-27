@@ -1,6 +1,6 @@
 # Zeus-X API
 
-This project is an API developed for the Zeus-X platform. The API facilitates the exchange of data, users balances and mail purchases.
+This project is an API developed in Node.js for the Zeus-X platform. The API facilitates the exchange of data, user balances, and mail purchases.
 
 ## Features
 
