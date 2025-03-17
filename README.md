@@ -19,7 +19,7 @@ This project is an API developed in Node.js for the Zeus-X platform. The API fac
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kullaniciadi/zeus-x-api.git
+   git clone https://github.com/coderyilmaz/zeus-x-api.git
 
 ## Signature
 
